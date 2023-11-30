@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142236489628",
+    "project_id": "slam-book-4c34f",
+    "storage_bucket": "slam-book-4c34f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142236489628:android:021d3008481317a5e61a59",
+        "android_client_info": {
+          "package_name": "com.harsh.new_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4YaniCOlA5h3c5s-z8qyimvrFPQVpAHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
